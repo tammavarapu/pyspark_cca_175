@@ -1,1 +1,2 @@
 https://stackoverflow.com/questions/30691385/internal-work-of-spark
+https://dzone.com/articles/how-spark-internally-executes-a-program
